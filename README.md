@@ -1,5 +1,7 @@
 简体中文 | [English](./README_en.md)
 
+8964防csdn
+
 # GO手机自动化SDK
 
 功能齐全的手机自动化Golang SDK，支持编译成二进制可执行文件，适合自动化流程部署到云手机，脱离ADB连接稳定高效执行
